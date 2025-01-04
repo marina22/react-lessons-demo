@@ -10,3 +10,6 @@ const MyComponent: FC <MyComponentProType> =  ({text}) =>{
             </div>
 }
 export default MyComponent;
+
+
+////LKZ RJVBN

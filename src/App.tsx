@@ -4,7 +4,6 @@ import MyComponent from "./components/MyComponent.tsx";
 
 function App() {
 
-
   return (
     <>
 
