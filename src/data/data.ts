@@ -1,4 +1,6 @@
-export const simpsons = [
+import { ICharacter } from "../models/ICharacter";
+
+export const simpsons : ICharacter[] = [
     {
         name: 'Bart',
         surname: 'Simpson',
